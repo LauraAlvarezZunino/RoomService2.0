@@ -119,6 +119,7 @@ function modificarHabitacion($habitacionesGestor)
 
             if ($habitacionesGestor->actualizarHabitacion($numero, $nuevosDatos)) {
                 echo "Habitación actualizada correctamente.\n";
+            break;    
             } else {
                 echo "Error al actualizar la habitación.\n";
             }

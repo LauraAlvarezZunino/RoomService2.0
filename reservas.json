@@ -9,14 +9,6 @@
             "usuarioDni": "89123456"
         },
         {
-            "id": 2,
-            "fechaInicio": "2025-04-10",
-            "fechaFin": "2025-04-15",
-            "habitacion": "5",
-            "costo": 210000,
-            "usuarioDni": "90123456"
-        },
-        {
             "id": 3,
             "fechaInicio": "2025-06-20",
             "fechaFin": "2025-06-25",
@@ -52,8 +44,8 @@
             "id": 7,
             "fechaInicio": "2025-10-02",
             "fechaFin": "2025-10-06",
-            "habitacion": "4",
-            "costo": 136000,
+            "habitacion": "6",
+            "costo": 300000,
             "usuarioDni": "90123456"
         },
         {
@@ -89,14 +81,6 @@
             "usuarioDni": "89123456"
         },
         {
-            "id": 12,
-            "fechaInicio": "2025-06-15",
-            "fechaFin": "2025-06-18",
-            "habitacion": "5",
-            "costo": 126000,
-            "usuarioDni": "90123456"
-        },
-        {
             "id": 13,
             "fechaInicio": "2025-07-25",
             "fechaFin": "2025-07-28",
@@ -119,6 +103,6 @@
             "habitacion": "6",
             "costo": 300000,
             "usuarioDni": "93456789"
-        }
-    ]
+        }
+    ]
 }

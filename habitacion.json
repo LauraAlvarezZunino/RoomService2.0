@@ -21,13 +21,8 @@
             "precio": "34000"
         },
         {
-            "numero": "5",
-            "tipo": "doble",
-            "precio": "42000"
-        },
-        {
             "numero": "6",
-            "tipo": "familiar",
+            "tipo": "simple",
             "precio": "75000"
         },
         {
@@ -49,6 +44,6 @@
             "numero": "10",
             "tipo": "simple",
             "precio": "34000"
-        }
-    ]
+        }
+    ]
 }
