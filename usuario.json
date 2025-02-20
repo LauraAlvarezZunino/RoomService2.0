@@ -2,67 +2,43 @@
     "usuarios": [
         {
             "id": 1,
-            "nombre": "Jose Suarez",
-            "dni": "111111",
-            "email": "lala@hotmail.com",
-            "telefono": "2494673455",
-            "clave": "josesito123"
+            "nombre": "Federico Gomez",
+            "dni": "89123456",
+            "email": "fede.gomez@gmail.com",
+            "telefono": "2494123456",
+            "clave": "fede123"
         },
         {
             "id": 2,
-            "nombre": "Josesito Rodriguez",
-            "dni": "24567890",
-            "email": "jose@gmail.com",
-            "telefono": "2494698754",
-            "clave": "josesito"
+            "nombre": "Camila Rojas",
+            "dni": "90123456",
+            "email": "camila.rojas@gmail.com",
+            "telefono": "2494234567",
+            "clave": "cami456"
         },
         {
             "id": 3,
-            "nombre": "Ana Martinez",
-            "dni": "34567891",
-            "email": "ana.martinez@example.com",
-            "telefono": "2494789654",
-            "clave": "anitres"
+            "nombre": "Martín Herrera",
+            "dni": "91234567",
+            "email": "martin.herrera@gmail.com",
+            "telefono": "2494345678",
+            "clave": "martin789"
         },
         {
             "id": 4,
-            "nombre": "Carlos Lopez",
-            "dni": "45678912",
-            "email": "carlos.lopez@example.com",
-            "telefono": "2494867531",
-            "clave": "carloncho"
+            "nombre": "Sofía Benitez",
+            "dni": "92345678",
+            "email": "sofia.benitez@gmail.com",
+            "telefono": "2494456789",
+            "clave": "sofia321"
         },
         {
             "id": 5,
-            "nombre": "Lucia Fernandez",
-            "dni": "56789123",
-            "email": "lucia.fernandez@example.com",
-            "telefono": "2494938671",
-            "clave": "Luliluli"
-        },
-        {
-            "id": 6,
-            "nombre": "Diego Perez",
-            "dni": "67891234",
-            "email": "diego.perez@example.com",
-            "telefono": "2494512365",
-            "clave": "Perezito"
-        },
-        {
-            "id": 7,
-            "nombre": "Maria Garcia",
-            "dni": "78912345",
-            "email": "maria.garcia@example.com",
-            "telefono": "2494671234",
-            "clave": "marita1"
-        },
-        {
-            "id": 8,
-            "nombre": "lau alvarez",
-            "dni": "36608470",
-            "email": "lauu.25@live.com.ar",
-            "telefono": "2494213912",
-            "clave": "2025"
-        }
-    ]
+            "nombre": "Gonzalo Ramirez",
+            "dni": "93456789",
+            "email": "gonzalo.ramirez@gmail.com",
+            "telefono": "2494567890",
+            "clave": "gonza654"
+        }
+    ]
 }
