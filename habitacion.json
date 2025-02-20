@@ -1,39 +1,54 @@
 {
     "habitacion": [
         {
-            "numero": "2",
-            "tipo": "familiar",
-            "precio": "70000"
-        },
-        {
-            "numero": "5",
+            "numero": "1",
             "tipo": "simple",
             "precio": "35000"
         },
         {
-            "numero": "9",
+            "numero": "2",
+            "tipo": "doble",
+            "precio": "45000"
+        },
+        {
+            "numero": "3",
+            "tipo": "familiar",
+            "precio": "70000"
+        },
+        {
+            "numero": "4",
             "tipo": "simple",
             "precio": "34000"
         },
         {
-            "numero": "12",
+            "numero": "5",
             "tipo": "doble",
-            "precio": "41000"
+            "precio": "42000"
         },
         {
-            "numero": "13",
+            "numero": "6",
+            "tipo": "familiar",
+            "precio": "75000"
+        },
+        {
+            "numero": "7",
+            "tipo": "simple",
+            "precio": "36000"
+        },
+        {
+            "numero": "8",
             "tipo": "doble",
-            "precio": "34000"
+            "precio": "43000"
+        },
+        {
+            "numero": "9",
+            "tipo": "familiar",
+            "precio": "72000"
         },
         {
             "numero": "10",
             "tipo": "simple",
             "precio": "34000"
-        },
-        {
-            "numero": "1",
-            "tipo": "simple",
-            "precio": "600000"
-        }
-    ]
+        }
+    ]
 }
