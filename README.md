@@ -1,6 +1,6 @@
 #  Room Service API
 
-Una API RESTful **Backend-Only** desarrollada para la gestión de servicios de un hotel (habitaciones, reservas, notificaciones y usuarios). Esta aplicación implementa el patrón **Modelo-Vista-Controlador (MVC)** y la **Programación Orientada a Objetos (POO)** en PHP.
+Una API**Backend-Only** desarrollada para la gestión de servicios de un hotel (habitaciones, reservas, notificaciones y usuarios). Esta aplicación implementa el patrón **Modelo-Vista-Controlador (MVC)** y la **Programación Orientada a Objetos (POO)** en PHP.
 
 ---
 
